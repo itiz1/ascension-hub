@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tempvoxels-web/Sell-Lemons/refs/heads/main/unobfus-sell-lemons-v1.lua"))() 
+
+-- open github link for sourcecode, use loadstring for realtime updates.
